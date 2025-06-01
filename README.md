@@ -1,2 +1,2 @@
-# Public-Trust-Land-Grants
+# Governance
 Public Trust Governance Models (Christian Use Land Grants)
